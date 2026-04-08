@@ -7,7 +7,7 @@
 
 ## Architecture Diagram
 
-![Mandi Mitra Architecture](Screenshot 2026-04-08 at 16.07.07.png)
+![Mandi Mitra Architecture](architecture.png)
 
 ---
 
