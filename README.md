@@ -6,7 +6,7 @@
 
 ## Architecture Diagram
 
-![Upaj.ai Architecture](architecture.png)
+![Upaj.ai Architecture](ARCHITECTURE1.png)
 
 > **How Databricks components connect:** The farmer's query enters the Gradio web UI → Llama 4 Maverick (via Databricks Model Serving + Databricks SDK) extracts intent and translates district names → pre-aggregated mandi price data (`mandi_data.json`, exported from the Gold Delta Lake table) is queried locally → net return is ranked → Llama 4 generates a reply in the farmer's native language.
 
