@@ -116,7 +116,7 @@ After running notebook `04_train_model.py`, open the **MLflow Experiments** tab 
 
 ---
 
-## Project Write-up (500 chars)
+## Project Write-up
 
 > Mandi Mitra is a multilingual AI chatbot for Indian farmers that predicts the best mandi to sell their crop at the highest price. Built on Databricks using Spark MLlib for price forecasting and Llama 4 Maverick for multilingual intent extraction and reply generation. Supports 8 Indian languages. Uses a Gold Delta Lake table with weather and harvest season features. Farmers simply ask in their native language and get an instant, actionable mandi recommendation with estimated profit.
 
